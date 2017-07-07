@@ -1,0 +1,6 @@
+plugin:
+    name: 'octobro.jne::lang.plugin.name'
+    description: 'octobro.jne::lang.plugin.description'
+    author: Octobro
+    icon: oc-icon-truck
+    homepage: ''
